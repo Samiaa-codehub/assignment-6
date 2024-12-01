@@ -185,9 +185,9 @@ const Team = () => {
               />
             </span>
             <p className="w-[298.67px] h-[135px] font-[Roboto] font-[400] text-[18px] leading-[27px] text-[#000000] items-center mt-8">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in eros elementum tristique. Duis cursus,
-              mi quis viverra ornare."
+              mi quis viverra ornare.&quot;
             </p>
             <div className="w-Hug-[215px] h-Hug-[56px] flex gap-[20px]">
               <Image
@@ -222,9 +222,9 @@ const Team = () => {
               />
             </span>
             <p className="w-[298.67px] h-[135px] font-[Roboto] font-[400] text-[18px] leading-[27px] text-[#000000] items-center mt-8">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in eros elementum tristique. Duis cursus,
-              mi quis viverra ornare."
+              mi quis viverra ornare.&quot;
             </p>
             <div className="w-Hug-[215px] h-Hug-[56px] flex gap-[20px]">
               <Image
@@ -256,9 +256,9 @@ const Team = () => {
               />
             </span>
             <p className="w-[298.67px] h-[135px] font-[Roboto] font-[400] text-[18px] leading-[27px] text-[#000000] items-center mt-8">
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in eros elementum tristique. Duis cursus,
-              mi quis viverra ornare."
+              mi quis viverra ornare.&quot;
             </p>
             <div className="w-Hug-[215px] h-Hug-[56px] flex gap-[20px]">
               <Image
